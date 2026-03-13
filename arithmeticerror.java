@@ -1,3 +1,5 @@
+//lab practical 13-03-2026
+
 import java.util.Scanner;
 class Division{
     public static void main(String [] args){
@@ -16,4 +18,5 @@ class Division{
         }
         sc.close();
     }
+
 }
